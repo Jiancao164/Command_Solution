@@ -4,8 +4,8 @@ Instruction: Unzip the file and directly open the project in any IDE ("Command" 
 
 Assume such directory is in the system: 
 
-     |--def -- ghi
-abc--|--klm
-     |--gh
+          |--def -- ghi
+     abc--|--klm
+          |--gh
 
-tmt--|
+     tmt--|
